@@ -102,13 +102,13 @@
   <div class="card">
     <div class="msg1">🌟 گالری ستاره 🌟</div>
     <div class="msg2">خاطرات شما با درخشش ستاره‌ها ماندگار می‌شود</div>
-    <div class="msg3">عکاسی، طراحی و چاپ لحظات خاص شما</div>
-    <div class="msg4">شماره مجوز 1125-7311-(ICT)</div>
+    <div class="msg3">انواع لوازم آرایشی-بهداشتی-لباس زیر مردانه-زنانه-بچه گانه-انواع پیراهن مردانه-عطر و ادکلن و...</div>
+    <div class="msg4">شماره مجوز</div>
 
     <div class="links-container">
-      <a class="link-box" href="https://sapp.ir/ashrafi_c_net" target="_blank">سروش</a>
-      <a class="link-box" href="https://wa.me/989148172072" target="_blank">واتساپ</a>
-      <a class="link-box" href="tel:+984432551422">تماس تلفنی</a>
+      <a class="link-box" href="XXXXXXXXXXXXXXXXXXXXXXX" target="_blank">نام کانال</a>
+      <a class="link-box" href="https://wa.me/98XXXXXXXXXX" target="_blank">واتساپ</a>
+      <a class="link-box" href="tel:+98XXXXXXXXXX">تماس تلفنی</a>
     </div>
   </div>
 </body>
